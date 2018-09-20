@@ -6390,3 +6390,9 @@ body{
   z-index: -1;
   background-size: cover;
   background-position: 50% 50%; }
+
+footer {
+  line-height: 60px;
+  background-color: #f5f5f5; }
+  footer > span {
+    margin-left: 15px; }
